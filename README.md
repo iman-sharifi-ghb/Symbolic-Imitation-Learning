@@ -1,2 +1,2 @@
-# Neuro-Symbolic-Reinforcement-Learning-using-Inductive-Logic-Programming
-Extract geveral, symbolic rules in the environment to help Reinforcement Learning find the best, safe policy in the exploration phase. This method is interpretable, explainable, data-efficient, and enjoy symbolic reasoning.
+# Symbolic-Imitation-Learning-using-Inductive-Logic-Programming
+We extract symbolic first-order logical rules using inductive logic programming (ILP) to find a safe and legal policy in autonomous highway driving. Using inductive reasoning, this method is interpretable, generalizable, and data-efficient.
