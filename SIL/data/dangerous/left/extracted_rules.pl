@@ -1,0 +1,1 @@
+left_is_dangerous:- back_left_velocity_is_bigger,back_left_is_busy; front_left_velocity_is_lower,front_left_is_busy.

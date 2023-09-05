@@ -1,0 +1,1 @@
+increase_velocity:- ego_velocity_is_legal,front_is_free; front_velocity_is_bigger,front_distance_is_safe,ego_velocity_is_legal.
